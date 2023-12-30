@@ -9,10 +9,10 @@
 ![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/21a5e7e8-bea0-4d89-a7d3-4474db9dfb16)
 
 
-###EVALUATION: 
+### EVALUATION: 
 
 ![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/73153e5f-f910-43cb-85c9-6fa213fc8216)
 
 
-###RESULTS: 
+### RESULTS: 
  The overall accuracy of the model, which is the ratio of correctly predicted instances to the total number of instances. In this case, the overall accuracy is 0.77 or 77%.
