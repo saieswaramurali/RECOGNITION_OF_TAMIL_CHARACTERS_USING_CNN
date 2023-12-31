@@ -17,4 +17,4 @@
 
 
 ### RESULTS: 
- The overall accuracy of the model, which is the ratio of correctly predicted instances to the total number of instances. In this case, the overall accuracy is 0.77 or 77%.
+ The overall accuracy of the model, which is the ratio of correctly predicted instances to the total number of instances. In this case, the overall accuracy is 0.96 or 96%.
