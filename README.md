@@ -6,12 +6,14 @@
 
 ### MODEL ARCHITECTURE: 
 
-![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/21a5e7e8-bea0-4d89-a7d3-4474db9dfb16)
+![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/05bbc839-46c0-4b99-b7ba-ba2d0d094eeb)
+
 
 
 ### EVALUATION: 
 
-![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/73153e5f-f910-43cb-85c9-6fa213fc8216)
+![image](https://github.com/saieswaramurali/RECOGNITION_OF_TAMIL_CHARACTERS_USING_CNN/assets/105098810/20d30c36-7d2d-4e23-ade9-69d1d7ab2862)
+
 
 
 ### RESULTS: 
