@@ -2,7 +2,7 @@
 
 ### INTRODUCTION: 
 
-"This repository contains a Convolutional Neural Network (CNN) tailored for recognizing handwritten Tamil 'Uyir Eluthu' characters. Trained on a dataset of handwritten samples, the model excels at accurately identifying and classifying these characters, offering a reliable solution for handwritten Tamil character recognition."
+"This repository contains a Convolutional Neural Network (CNN) tailored for recognizing handwritten Tamil 'Uyir Eluthu' characters. Trained on a dataset of handwritten samples, the model excels at accurately identifying and classifying these characters, offering a reliable solution for handwritten Tamil character recognition.This neural network model has been trained on a dataset comprising 9000 images and evaluated on a separate test set of 3000 images"
 
 ### MODEL ARCHITECTURE: 
 
